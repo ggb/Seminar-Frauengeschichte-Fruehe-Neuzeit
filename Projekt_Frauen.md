@@ -136,6 +136,9 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 
 ![Bildung](img/gruppenarbeit_wissenschaft.jpg)
 
+#### Ergebnisse: Gruppe "Politik"
+
+![Bildung](img/gruppenarbeit_politik.jpg)
 
 ### Aktuelle Debatten um Stereotypen
 
