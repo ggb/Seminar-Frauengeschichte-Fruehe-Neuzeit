@@ -105,3 +105,62 @@ Bitte lesen Sie zur nächsten Woche den folgenden Artikel:
 Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artikel lesen:
 
 * [Kirsten Heinsohn](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn "Docupedia:Kirsten Heinsohn"), [Claudia Kemper](https://docupedia.de/zg/Docupedia:Claudia_Kemper "Docupedia:Claudia Kemper"), Geschlechtergeschichte, in: Docupedia-Zeitgeschichte, 04.12.2012, [http://docupedia.de/zg/heinsohn_kemper_geschlechtergeschichte_v1_de_2012](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn)
+
+## Sitzung am 25.04.2024
+
+### Gruppenarbeit Mind-Map
+
+1. Bilden Sie Gruppen von 3 bis 4 Teilnehmenden.
+2. Jede Gruppe wählt ein Hauptthema aus dem Bereich der Frauen- und Geschlechterforschung, z.B. Frauen in der Wissenschaft, Frauen und Religion, Frauen und Bildung, etc.
+3. Erstellen Sie eine Mind-Map. Diese sollte die folgende Elemente enthalten:
+
+   * Hauptthema (z.B. Frauen in der Wissenschaft)
+   * Unterkategorien oder Aspekte des Themas (z.B. berühmte Wissenschaftlerinnen, Zugang von Frauen zur Bildung, Herausforderungen für Frauen in der akademischen Welt, etc.)
+   * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
+
+4. Jede Gruppe präsentiert ihre Mind-Map und erläutert kurz die ausgewählten Themen.
+
+#### Ergebnisse: Gruppe "Bildung"
+
+![Bildung](img/gruppenarbeit_bildung.jpg)
+
+#### Ergebnisse: Gruppe "Macht"
+
+![Bildung](img/gruppenarbeit_macht.jpg)
+
+#### Ergebnisse: Gruppe "Religion"
+
+![Bildung](img/gruppenarbeit_religion.jpg)
+
+#### Ergebnisse: Gruppe "Wissenschaft"
+
+![Bildung](img/gruppenarbeit_wissenschaft.jpg)
+
+
+### Aktuelle Debatten um Stereotypen
+
+> Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+
+{{1}}
+> _Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:_
+
+{{2}}
+![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+
+{{3}}
+********
+![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
+
+Quelle: [https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
+********
+
+
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie zur nächsten Woche den folgende Artikel:
+
+* Geschlechterrollen in der Frühen Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-272465.xml
+
+* Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
+
+* Gisela Engel und Meide Wunder. Geschlechterperspektiven in der Frühen Neuzeit; im Olat-Ordner
