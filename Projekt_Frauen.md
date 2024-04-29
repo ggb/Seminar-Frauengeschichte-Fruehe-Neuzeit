@@ -126,19 +126,19 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 
 #### Ergebnisse: Gruppe "Macht"
 
-![Bildung](img/gruppenarbeit_macht.jpg)
+![Macht](img/gruppenarbeit_macht.jpg)
 
 #### Ergebnisse: Gruppe "Religion"
 
-![Bildung](img/gruppenarbeit_religion.jpg)
+![Religion](img/gruppenarbeit_religion.jpg)
 
 #### Ergebnisse: Gruppe "Wissenschaft"
 
-![Bildung](img/gruppenarbeit_wissenschaft.jpg)
+![Wissenschaft](img/gruppenarbeit_wissenschaft.jpg)
 
 #### Ergebnisse: Gruppe "Politik"
 
-![Bildung](img/gruppenarbeit_politik.jpg)
+![Politik](img/gruppenarbeit_politik.jpeg)
 
 ### Aktuelle Debatten um Stereotypen
 
