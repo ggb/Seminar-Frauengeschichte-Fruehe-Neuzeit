@@ -166,4 +166,4 @@ Bitte lesen Sie zur nächsten Woche den folgende Artikel:
 
 * Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
 
-* Gisela Engel und Meide Wunder. Geschlechterperspektiven in der Frühen Neuzeit; im Olat-Ordner
+* Natalie Zemon Davis, Neue Perspektiven für die Geschlechterforschung in der Frühen Neuzeit; im Olat-Ordner
