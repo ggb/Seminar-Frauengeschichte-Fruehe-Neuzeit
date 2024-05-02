@@ -209,7 +209,7 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 1. Melden Sie sich beim [Archivinformationssystem Schleswig-Holstein](https://arcinsys.schleswig-holstein.de) an und machen Sie sich mit der Suche und der Struktur der Gliederung der Akten vertraut.
 2. Versuchen Sie sich an der Transkription der folgenden Handschriftseite aus einem Zauberey-Prozess:
 
-![Handschrift Zauberey](img/handschrift_zauberei.jpg
+![Handschrift Zauberey](img/handschrift_zauberei.jpg)
 
 ## Sitzung am 09.05.
 
