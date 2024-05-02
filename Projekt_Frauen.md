@@ -167,3 +167,51 @@ Bitte lesen Sie zur nächsten Woche den folgende Artikel:
 * Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
 
 * Natalie Zemon Davis, Neue Perspektiven für die Geschlechterforschung in der Frühen Neuzeit; im Olat-Ordner
+
+## Sitzung am 02.05.2024
+
+### Leichenpredigt Katharina Franck (1698)
+
+Die vollständige Leichenpredigt finden Sie im OLAT.
+
+![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
+
+**Titel:** Das Testament und letzter Wille des sterbenden Jesu
+
+**Untertitel:** Bey Christlicher Leichbestattung Der Weiland Hoch Edlen Groß Ehr- und Hochtugendreichen Frauen Frauen
+Catharina gebohrnen Clausen Des Magnifici, HochEhrwürdigen/ HochEdlen und Hochgelahrten Herrn Christophori Francken
+SS. Theol. Doctoris, fürnehmsten Professoris und hochansehnlichen Procancellarii dieser hochlöblichen Universität
+hertzgeliebten Hauß-Ehre In damahliger Leichen-Predigt aus Joh. XVII, v. 24. (Vater Ich will/ daß wo Ich bin etc.) Am Sontage
+Oculi, war der 27. Martii dieses itztlauffenden 1698sten Jahrs in der Haupt-Kirchen St. Nicolai im Kiel in Volckreicher
+Versamlung eröffnet.
+
+#### Personalia
+
+![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
+
+Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
+
+#### Frauengeschichtliche Interpretation
+
+Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschreibung typisch weiblicher Merkmale kennzeichnen?
+
+### Inkshedding: Themenfindung
+
+1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst leserlich! Sie haben 10 Minuten Zeit.
+
+> Der Aspekt … interessiert mich besonders an der Frauengeschichte der Frühen Neuzeit, weil …
+
+1. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 Minuten zur Verfügung.
+2. Wir wiederholen 2. ein zweites Mal.
+
+### Aufgabe zur nächsten Woche
+
+1. Melden Sie sich beim [Archivinformationssystem Schleswig-Holstein](https://arcinsys.schleswig-holstein.de) an und machen Sie sich mit der Suche und der Struktur der Gliederung der Akten vertraut.
+2. Versuchen Sie sich an der Transkription der folgenden Handschriftseite aus einem Zauberey-Prozess:
+
+![Handschrift Zauberey](img/handschrift_zauberei.jpg
+
+## Sitzung am 09.05.
+
+Entfällt wg. Feiertag!
+
