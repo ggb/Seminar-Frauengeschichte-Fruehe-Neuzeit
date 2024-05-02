@@ -191,18 +191,29 @@ Versamlung eröffnet.
 
 Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
 
+{{1}}
+> * ganz allgemein: die Tatsache, dass für eine Frau der Frühen Neuzeit eine Leichenpredigt verfasst wurde
+> * der Sprachgebrauch (herzliche, teilweise liebevolle Begriffe und Äußerungen)
+> * Beispiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
+> * ein Sprachgebrauch, der sich quasi auf "Augenhöhe" mit den Leichenpredigten, die für Männer geschrieben wurden, befindet
+> * ausführlich wird auf die soziale Herkunft und den Stand von Katharina Franck verwiesen
+> * ihre Zugehörigkeit zum gehobenen Bürgertum Kiels scheint den Stellenwert ihres Geschlechts abzulösen 
+
 #### Frauengeschichtliche Interpretation
 
 Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschreibung typisch weiblicher Merkmale kennzeichnen?
 
-### Inkshedding: Themenfindung
+{{1}}
+********
+**Quellenauszüge:**
 
-1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst leserlich! Sie haben 10 Minuten Zeit.
+> * ganz liebreiche, vernünftige und tugendhafte Eheliebste (Rolle der Ehefrau)
+> * die Haushaltung, deren Last sie ihm gänzlich abgenommen (Rolle der Hausfrau)
+> * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen (die treue Hausfrau)
+> * auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen (die Rolle der Mutter)
 
-> Der Aspekt … interessiert mich besonders an der Frauengeschichte der Frühen Neuzeit, weil …
-
-1. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 Minuten zur Verfügung.
-2. Wir wiederholen 2. ein zweites Mal.
+> _Die Zuschreibung als Mutter, Hausfrau und Ehefrau verweist die Frau auf die private Sphäre des Hauses (Privatheit), während die öffentliche Sphäre, Politik und Berufswelt, den Männern zugeordnet wurde (Öffentlichkeit)_
+********
 
 ### Aufgabe zur nächsten Woche
 
