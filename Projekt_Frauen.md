@@ -226,3 +226,151 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 
 Entfällt wg. Feiertag!
 
+## Sitzung am 15.05.
+
+### Transkription der Handschrift zur Hexenverfolgung
+
+![Handschrift Zauberey](img/handschrift_zauberei.jpg)
+
+Landesarchiv Schleswig-Holstein Abt. 7/Nr. 1758 und Amtsrechnung 106/ Bordesholm (1638-39)
+
+#### Transkription
+
+>WolEdle Gestrenge Ehr[?]este GroßAchtbare 
+>
+>und hochgelarte großgünstige hochgeehrte liebe herrn 
+>
+>D. herlick: und hochgel. gst. kan ich hiemit und 
+>
+>dienstlich nicht bergen, Waßgestaldt mir dieses 
+>
+>Ambts underthan Carsten Resen zue Wackenbegke 
+>
+>wehemütiglich geklaget, daß seine Haußfraue 
+>
+>nun eine geraume zeithero betlegerig gewesen, 
+>
+>und in ihren gliedern große schmertzen empfunden, 
+>
+>Welcheß wie er und seine Haußfraue vormeinen
+>
+>ihr von einem alten Weibe in selbigem dorffe 
+>
+>Anneke Drewes geheißen angethan und veruhr-
+>
+>sachet wurde, dan wie gemelte seine fraue für 
+>
+>ungefehr 2 Jahren mit gemelter Dreweschen in 
+>
+>streith und wordtgezangk gerathen, und seine fraue
+>
+>dero Zeit schwanger gewesen, wehre die Drewesche 
+>
+>mit diesen Worten gegen ihr herauß gefahren: 
+>
+>Hörstu de Gehall mit deme du im geist, 
+>
+>wehe und bange werden, darauff sie dan als [forth] unge- 
+>
+>sundt geworden, seid dehme keinen guten tagk
+>
+>gehabet und wehre daß Kindt wie eß zur
+>
+>weldt kommen, fast an allen gliedern vorlähmet
+>
+>gewesen ist hette sich auch unterm bette dar-
+>
+>auff daß Kindt mit der Mutter gelegen des Nachts
+>
+>sich ein gespenst erreüget, welcheß die bette steite 
+>
+>Carsten Rese. c/a Anneke Drewes 
+>
+>8/12 1638
+
+
+#### Kontext des Quellenabschnitts
+
+![Anneke Drewes](img/Hexenverfolgung.jpg)
+
+1638 wurde Anneke Drewes von ihrem Nachbarn und dessen Frau nach einem Streit angeklagt wegen
+Hexerei, Kindsmord (Bezauberung einer Schwangeren und Tod des Kindes nach eineinhalb Jahren!) und
+Viehseuche. Herzog Friedrich III erlaubte auf Anfrage Folterung. Aber Anneke Drewes gestand nicht. Man
+ließ sie aber nicht frei, sondern sperrte sie 56 Tage im Gefängnis ein. Währenddessen verlangten „sämtliche
+Eingesessenen des Dorfes“ Wattenbek einen erneuten Einsatz von Folter. Der Bordesholmer Amtsschreiber
+Pund verfasste den Antrag an den Herzog und dieser gab nach, erlaubte aber nur die territio verbalis, die
+Schreckung, wobei man der Angeklagten, also Anneke Drewes, die Folterinstrumente zeigte, um ein
+Geständnis zu erzwingen. Das Opfer musste dabei annehmen, dass es wieder schreckliche Qualen
+auszuhalten hatte. Aber Anneke gestand wieder nicht und wurde freigelassen. Ob die Freilassung in diesem
+Fall durch den Fürst direkt oder eine fürstliche Anweisung an das Holstengericht geschah, ist den Akten
+nicht genau zu entnehmen.
+
+#### Quellenbeispiel mit Transkribus 
+
+![Transkribus Hexerei](img/transkribus_bsp.png)
+
+### Automatische Transkription mit Transkribus
+
+Transkribus ist ein Transkriptions-Tool, das von der Read COOP entwickelt wurde und Forschern und Wissenschaftlern dabei hilft, handschriftliche Dokumente zu digitalisieren und zu analysieren. Das Tool basiert auf der optischen Zeichenerkennung (OCR) und maschinellem Lernen und kann sowohl gedruckte als auch handgeschriebene Texte automatisch transkribieren. Darüber hinaus ermöglicht Transkribus auch die manuelle Transkription durch menschliche Transkribenten, wobei das Tool sie bei der Organisation und Verwaltung der Transkription unterstützt.
+
+Das Tool ist besonders nützlich für historische Dokumente, Archive, Bibliotheken und Museen, die ihre Dokumente digitalisieren und archivieren möchten. Transkribus bietet auch verschiedene Analysewerkzeuge an, die es Forschern erleichtern, die Inhalte und Strukturen der transkribierten Texte zu untersuchen.
+
+#### Die Benutzeroberfläche
+
+Die nachfolgenden Screenshots sind nicht mehr ganz aktuell, zeigen aber strukturell immer noch gut, was wo zu finden ist.
+
+##### Workdesk
+
+![Die Arbeitsoberfläche](img/transkribus_workdesk.png)
+
+##### Collections - View
+
+![Collection View](img/transkribus_collection-view.png)
+
+##### Collections - Organizer
+
+![Collection Organizer](img/transkribus_collections-organizer.png)
+
+##### Document - View
+
+![Document View](img/transkribus_document-view.png)
+
+##### Editor - Elements
+
+![Editor Elements](img/transkribus_editor-elements.png)
+
+##### Editor - Layout and Text 1
+
+![Editor: Layout and Text](img/transkribus_editor.png)
+
+##### Editor - Layout and Text 2
+
+![Editor: Layout and Text](img/transkribus_editor-layout.png)
+
+##### Tools Organizer
+
+![Tools Organizer](img/transkribus_tools-organizer.png)
+
+#### Der Workflow
+
+1. Account anlegen
+2. Collection mit einem sinnvollen Namen erstellen
+3. PDF Dokument hochladen: Entweder in der Collection oder unter Upload die Datei auswählen; aufpassen, dass der korrekte Dateityp gewählt wird.
+4. Automatische Texterkennung starten:
+
+   * Modelauswahl: *The Text Titan I* (erfordert Premium-Account) oder *The German Giant I* für Handschriften, *Transkribus Print M1* für Print verwenden.
+   * Warten: Die Transkription kann einige Zeit in Anspruch nehmen. Einen Überblick über den Fortschritt kann man sich unter "Jobs" verschaffen.
+
+5. Für jede Seite...
+
+   * Layout überprüfen und anpassen: Stimmen die Regionen oder sollten Regionen zusammengelegt werden? Wurden alle Zeilen erfasst? Wurden die Marginalien erfasst?
+   * Transkription überprüfen: Erkennungsfehler beheben.
+   * Speichern.
+
+6. Export der Ergebnisse
+
+### Aufgabe zur (über)nächsten Woche (d. h. spätestens 30.05.)
+
+>Machen Sie sich mit Arcinsys vertraut. Entscheiden Sie sich für ein Themenfeld, das Sie interessiert und über das Sie weiter recherchieren möchten. Dazu können Sie sich an den Ergebnissen der Gruppenarbeit vom 25.04. orientieren (s. im Material oben).
+>
+>Ermitteln Sie für das Thema mögliche Quellen im Landesarchiv und notieren Sie sich die Signaturen bzw. bestellen Sie die Akte. 
