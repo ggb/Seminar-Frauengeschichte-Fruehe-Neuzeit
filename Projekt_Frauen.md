@@ -226,7 +226,7 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 
 Entfällt wg. Feiertag!
 
-## Sitzung am 15.05.
+## Sitzung am 16.05.
 
 ### Transkription der Handschrift zur Hexenverfolgung
 
@@ -374,3 +374,145 @@ Die nachfolgenden Screenshots sind nicht mehr ganz aktuell, zeigen aber struktur
 >Machen Sie sich mit Arcinsys vertraut. Entscheiden Sie sich für ein Themenfeld, das Sie interessiert und über das Sie weiter recherchieren möchten. Dazu können Sie sich an den Ergebnissen der Gruppenarbeit vom 25.04. orientieren (s. im Material oben).
 >
 >Ermitteln Sie für das Thema mögliche Quellen im Landesarchiv und notieren Sie sich die Signaturen bzw. bestellen Sie die Akte. 
+
+## Sitzung am 23.05.
+
+Besuch von Britta Petersen (RZ)
+
+## Sitzung am 30.05.
+
+Gemeinsamer Ausflug in das Landes- und Universitätsarchiv Schleswig-Holstein
+
+## Sitzung am 06.06.
+
+### Blitzlicht: Reflexion Landesarchiv
+
+1. Wie war es?
+2. Was haben Sie mitgenommen?
+3. Sind Sie auf eine interessante/vielversprechende Quelle gestoßen?
+
+### Dokumentation
+
+Notieren Sie sich möglichst zeitnah... 
+
+* Wann wurden die Digitalisate erstellt?
+* Wonach (Thema, Themenbereich, konkrete Suchbegriffe, Signaturen) wurde gesucht?
+* Gab es Gründe, warum Sie bestimmte Texte mitgenommen haben?
+* Wie wurden die Digitalisate erstellt?
+* Was wissen Sie über beteiligte Personen, bspw. die Autor:innen?
+* Was ist noch wichtig?
+
+### Mögliche Probleme bei der Arbeit mit Transkribus
+
+#### Quellenmaterial
+
+{{1}}
+**Q:** Was mache ich, wenn meine Transkription so aussieht?
+![Wenn es schief geht...](img/Screenshot_Kortholdt_1.png)
+
+{{2}}
+**A:** Bei einer Transkription, bei der die Linien in diesem Ausmaß falsch erkannt werden, liegt das Quellenmaterial vermutlich in zu geringer Auflösung vor. Dies kann insbesondere dann vorkommen, wenn es sich um ein automatisch generiertes PDF-Dokument handelt. Wenden Sie sich in diesem Fall bitte an uns!
+
+{{3}}
+**Q:** Was mache ich, wenn überflüssige Informationen (bspw. Anmerkungen von Bibliotheken) mittranskribiert werden?
+
+{{4}}
+**A:** Diese Informationen *sollen* restlos gelöscht werden. Die Regionen sollten so angepasst werden, dass sie den entsprechenden Bereich nicht miterfassen.
+
+#### Linien
+
+{{1}}
+**Q:** Wie können neue Zeilen (bspw. für Bibelverse) angelegt werden?
+
+{{2}}
+**A:** Mit dem Linientool, s. Demo!
+
+{{3}}
+**Q:** Wie ist mit getrennten Linien (Zeilen) umzugehen?
+
+{{4}}
+**A:** Leider gibt es derzeit keine andere Lösung, als die Inhalte der zweiten Hälfte in die erste zu kopieren und dann das überflüssige Fragment zu entfernen.
+
+{{5}}
+**Q:** Wie lassen sich Linien trennen?
+
+{{6}}
+**A:** Auch dafür gibt es keine elegante Lösung: Mit dem Linientool sollten für die neuen Elemente Linien gezogen und die Inhalte hinein kopiert werden. Die ursprüngliche Linie kann dann entfernt werden.
+
+#### Regionen
+
+{{1}}
+**Q:** Wie können zusätzliche Angaben (wie Bibelstellen) einer Extraregion zugeordnet und trotzdem erkennbar gemacht werden, in welcher Zeile sie ursprünglich standen?
+
+{{2}}
+**A:** Das ist möglich, aber für unsere Zwecke nicht notwendig. Implizit wird es bereits miterfasst.
+
+{{3}}
+**Q:** Kann ich die Größe/Form von Regionen verlässlich (sprich: nicht mit der Maus) ändern?
+
+{{4}}
+**A:** Nein. Leider stellt die Maus derzeit die einzige Möglichkeit der Bearbeitung dar.
+
+{{5}}
+**Q:** Wofür müssen neue Regionen angelegt werden bzw. wofür sind einzelne Regionen sinnvoll?
+
+{{6}}
+**A:** *So viele wie nötig, so wenig wie möglich.* Für den Fließtext einer Seite sollte eine Region angelegt werden, darüber hinaus für die Marginalia und (falls vorhanden) die Fußnoten. In der Regel sollten Sie mit zwei bis drei Regionen pro Seite auskommen.
+
+#### Transkription
+
+**Q:** Wie mit handschriftlichen Ergänzungen umgegangen werden? Wie verlässlich müssen die transkribiert werden?
+
+{{1}}
+**A:** Das kommt ganz darauf an...
+
+{{2}}
+**Q:** Wie können große, verzierte Buchstaben transkribiert und zugeordnet werden?
+
+{{3}}
+**A:** Transkribus erkennt solche Buchstaben häufig gar nicht; sie sind im Transkript manuell an der korrekten Stelle zu ergänzen.
+
+{{4}}
+**Q:** Sind vermutete Leerzeichen in der Transkription zu ergänzen, wenn sie im Original nicht ersichtlich sind?
+
+{{5}}
+**A:** Nein.
+
+{{6}}
+**Q:** Woran liegt es, dass teils unterschiedlich viele Buchstaben groß/klein geschrieben werden? Muss die Groß- und Kleinschreibung korrigiert werden?
+
+{{7}}
+**A:** Die Groß- und Kleinschreibung sollte der Quelle entsprechen.
+
+#### Wie geht es weiter?
+
+**Q:** Gibt es weitere Fragen?
+
+{{1}}
+**A:** ...
+
+{{2}}
+**Q:** Sollen in Transkribus Annotationen gemacht werden?
+
+{{3}}
+**A:** Nein. Das ist zwar möglich, aber wir werden die Annotationen in einem zweiten Schritt (und sehr viel bequemer) angehen.
+
+{{4}}
+**Q:** Wenn wir damit fertig sind, wie sollen wir Ihnen das schicken?
+
+{{5}}
+**A:** Über den Export sprechen wir in der kommenden Woche.
+
+### Absprachen für die Transkription
+
+* Die Transkription erfolgt quellennah, Eingriffe sollten soweit möglich vermieden werden. 
+* Leerzeichen bleiben erhalten, wie sie in der Quelle erkennbar sind.
+* Eingriffe in den Text (bspw. weil etwas nicht lesbar, unverständlich oder ergänzt worden ist) werden (zunächst!) durch eckige Klammern "[", "]" kenntlich gemacht. 
+
+### Zur nächsten Woche
+
+Wählen Sie einen Text(ausschnitt) aus, den Sie weiter bearbeiten möchten. 
+
+Transkribieren Sie den gewählten Text(ausschnitt) soweit Sie kommen. Erstellen Sie eine Dokumentation (s. o.).
+
+## Sitzung am 13.06. 
