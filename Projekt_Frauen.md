@@ -516,3 +516,29 @@ Wählen Sie einen Text(ausschnitt) aus, den Sie weiter bearbeiten möchten.
 Transkribieren Sie den gewählten Text(ausschnitt) soweit Sie kommen. Erstellen Sie eine Dokumentation (s. o.).
 
 ## Sitzung am 13.06. 
+
+### Inkshedding: Themenfindung
+
+1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst leserlich! Sie haben 10 Minuten Zeit.
+
+> An meiner Quelle interessiert mich besonders, dass ... In die Frauengeschichte würde ich die Quelle so einordnen ... 
+
+2. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 bis 10 Minuten zur Verfügung.
+3. Wir wiederholen 2. ein zweites Mal.
+
+### Zur nächsten Woche
+
+Bereiten Sie zwei Texte von Johanna Drucker vor, die sich mit Daten und Metadaten beschäftigen. Insbesondere die Teile 2a und 4a sind für uns relevant. Die Texte finden Sie im Materialverzeichnis unter der kommenden Sitzung.
+
+
+## Sitzung am 20.06.
+
+
+### Zur nächsten Woche
+
+Sichten Sie die Erfassungsstandards für Metadaten des METAscript-Projekts: https://metascripta.org/standards
+
+Bewerten und entscheiden Sie, welche Metadatenstandards Sie als nützlich/nicht nützlich für die Erfassung der Handschriften in unserem Seminarkontext betrachten. 
+
+## Sitzung am 27.06.
+
