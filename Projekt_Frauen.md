@@ -558,4 +558,50 @@ Nutzen Sie dazu gerne eine (!) PowerPoint-Folie, Ihre(n) Omeka Eintra(e)g(e) ode
 
 Sie haben für die Präsentation 3 Minuten (striktes Zeitlimit!) Zeit.
 
+### Arbeiten mit Omeka S
+
+Es gibt diverse gute Online-Ressourcen für das Arbeiten mit Omeka S:
+
+* Detaillierte Informationen zum Arbeiten mit *Sites*, aber auch viele andere Themen werden in der [Dokumentation von Omeka S](https://omeka.org/s/docs/user-manual/sites/site_pages/) behandelt.
+* Die Brock University stellt ein [übersichtliches Tutorial](https://brockdsl.github.io/Omeka-S-Tutorial/) zur Verfügung. 
+* Bei YouTube gibt es diverse Videos, die das Arbeiten mit Omeka S zeigen. Eine (schon etwas ältere, aber immer noch aktuelle) [Playlist der UTAS Library](https://www.youtube.com/playlist?list=PLBcibLrGep73PxZQF08vIewBxMuYVULyb) behandelt verschiedene Aspekte.
+
+Die wesentlichen Aspekte werden im Weiteren kurz zusammengefasst.
+
+#### Administratoren-Cockpit und Navigation
+
+Für Ihre Arbeit mit Omeka S sind nur die Teilbereiche Objekte, Sammlungen und Standorte von Bedeutung. 
+
+Auf Grundlage der [METAscripta-Ontologie](https://metascripta.org/standards) haben wir Ihnen eine Ressourcenvorlage (*Frauengeschichte*) erstellt, die Sie bei der Arbeit mit Objekten und Sammlungen verwenden können. Um diese Bereiche brauchen Sie sich also nicht weiter kümmern.
+
+![Omeka S Administratoren-Cockpit](img/omeka-startseite.png)
+
+#### Objekte (Items) und Sammlungen (Item Sets)
+
+Das Arbeiten mit Objekten und Sammlungen verläuft sehr ähnlich: Legen Sie zunächst eine Sammlung für Ihre Manuskripte an und geben Sie der Sammlung einen sprechenden Namen. Wählen Sie unter "Ressourcenvorlage" *Frauengeschichte* aus. Anschließend sollten Sie die Felder des Formulars entsprechend der Vorgaben von [METAscripta](https://metascripta.org/standards) pflegen.
+
+![Omeka Sammlung](img/omeka-sammlung.png)
+
+Achten Sie darauf die Autoritäten und Vokabulare korrekt anzugeben. Wenn bspw. ein [GeoNames-Eintrag](https://www.geonames.org) gefordert ist, sollten Sie wie folgt vorgehen: Besuchen Sie die Seite der Autorität (GeoNames) und suchen Sie den gewünschten Eintrag (bspw. *Schleswig*) heraus. Unterhalb des Schema-Feldes (im Beispiel *City*) klicken Sie auf **URI** und geben als Link den aus der Browserzeile (oder von der Website kopierten) Link der Ressource an. Geben Sie unter Bezeichnung einen sprechenden, möglichst kanonischen Namen an. Sie können sich für das Vorgehen gerne an der Test-Sammlung orientieren und von dort die auch für Sie passenden Einträge kopieren. 
+
+Bearbeiten Sie in der Sammlung alle Felder, die für alle ihre Dokumente gleich sind.
+
+Anschließend legen Sie für jede Manuskriptseite ein Objekt an: Auch hier ist zunächst als Ressourcenvorlage *Frauengeschichte* auszuwählen. Tragen Sie hier nur noch die Dinge ein, die von der Sammlung abweichen bzw. nicht für alle Dokumente der Sammlung gleich sind (und entsprechend in der Sammlung nicht auftauchen). Das betrifft bspw. die Transkription (im Schema-Feld *Explizit*).
+
+Weiterhin sollten Sie für jedes Objekt das Digitalisat (sprich das Foto der Manuskriptseite) hochladen. Dies ist über den Reiter **Medien** möglich. Jedes Objekt müssen Sie anschließend zudem noch Ihrer zuvor erstellten Sammlung hinzufügen. Das ist über den Reiter **Sammlungen** möglich. 
+
+![Omeka Objekte](img/omeka-objekte.png)
+
+#### Standorte (Website)
+
+Sobald Sie eine Sammlung und (mindestens eine handvoll Objekte) erstellt haben, können Sie eine Website (verwirrenderweise *Standort* in Omeka genannt) erstellen. Geben Sie ihrer Website einen deskriptiven Namen. 
+
+Anschließend können Sie eine einzelne Seite für ihre Reflexion erstellen. Mit HTML-Blöcken können Sie auf Ihrer Website Texte zur Verfügung stellen. Orientieren Sie sich auch hierzu gerne an der Beispiel-Seite und beachten Sie die weiter oben verlinkten Tutorials.
+
+![Omeka Standorte](img/omeka-standort.png)
+
+#### Ich komme nicht weiter, was soll ich tun?
+
+Schreiben Sie mir (Gregor Große-Bölting) eine E-Mail  mit einer kurzen Problembeschreibung!
+
 ## Sitzung am 11.07.
