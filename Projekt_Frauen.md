@@ -596,6 +596,11 @@ Weiterhin sollten Sie für jedes Objekt das Digitalisat (sprich das Foto der Man
 
 Sobald Sie eine Sammlung und (mindestens eine handvoll Objekte) erstellt haben, können Sie eine Website (verwirrenderweise *Standort* in Omeka genannt) erstellen. Geben Sie ihrer Website einen deskriptiven Namen. 
 
+Damit Ihre Objekte korrekt auf Ihrer Website angezeigt werden, sind zwei zusätzliche Schritte notwendig:
+
+1. Klicken Sie für Ihre Website auf den Menüpunkt *Standortadministrator* und dann auf den Reiter *Einstellungen*. Entfernen Sie den Haken (falls gesetzt) bei **Auto-assign new items**.
+2. Fügen Sie ihre Objekte zu ihrer Website hinzu: Das ist bei den Einstellungen der Objekte möglich, in dem Sie auf den Reiter *Standort* wechseln (befindet sich neben Medien und Sammlungen, s.o.) und dort ihre Website auf der rechten Seite auswählen.
+
 Anschließend können Sie eine einzelne Seite für ihre Reflexion erstellen. Mit HTML-Blöcken können Sie auf Ihrer Website Texte zur Verfügung stellen. Orientieren Sie sich auch hierzu gerne an der Beispiel-Seite und beachten Sie die weiter oben verlinkten Tutorials.
 
 ![Omeka Standorte](img/omeka-standort.png)
