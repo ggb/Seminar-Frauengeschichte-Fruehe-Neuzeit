@@ -542,3 +542,20 @@ Bewerten und entscheiden Sie, welche Metadatenstandards Sie als nützlich/nicht 
 
 ## Sitzung am 27.06.
 
+## Sitzung am 04.07.
+
+### Deadline(s) für die Abgabe
+
+Stellen Sie bis zum 15.08. Ihre Transkription, Metadatenbeschreibung in Omeka und Reflexion (Website) fertig.
+
+Sie erhalten ggf. von uns Feedback dazu, dass Sie bis zum 15.09. (endgültige Abgabe) einarbeiten können.
+
+### Abschlusspräsentation
+
+Stellen Sie dem Seminar die Frau vor, die in Ihrer Quelle behandelt wird.
+
+Nutzen Sie dazu gerne eine (!) PowerPoint-Folie, Ihre(n) Omeka Eintra(e)g(e) oder Transkription.
+
+Sie haben für die Präsentation 3 Minuten (striktes Zeitlimit!) Zeit.
+
+## Sitzung am 11.07.
